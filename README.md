@@ -1,0 +1,2 @@
+# RustTask
+Rust recruitment task
