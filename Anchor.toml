@@ -5,5 +5,8 @@ url = "https://anchor.projectserum.com"
 cluster = "localnet"
 wallet = "/home/kpomian/.config/solana/id.json"
 
+[programs.localnet]
+rust_task = "5wjcBrJYAE1wRcD5kFKjXQP3jZNEEFXWUB2hf7GxH5kC"
+
 [scripts]
 test = "mocha -t 1000000 tests/"
